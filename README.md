@@ -69,7 +69,7 @@ We expect you to:
 * Justify design choices, arguing about costs and benefits involved. You may write those as comments inline or, if you wish, provide a separate document summarizing those choices;
 * Write all code and documentation in english
 
-![challenge_frontend](https://github.com/intelie/challenge-chart-plot/raw/master/challenge_frontend.png "Expected user interface")
+![challenge_frontend](https://github.com/renancvalladao/challenge-chart-plot/blob/master/myChart.png "My user interface")
 
 Although you can choose any graphical library to plot the chart, we suggest that you use a declarative JS framework to build the application such as ReactJS.
 
